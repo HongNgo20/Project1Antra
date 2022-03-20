@@ -192,16 +192,16 @@ h1.hero:after {
   }
 
   footer {
-    /* just for demo */
+  
     background-color: #F8F8F8;
     border-top: 1px solid #E7E7E7;
     text-align:center;
     padding:10px;
     font-size: calc(var(--typeBaseSize)*0.85);
-  
     position: absolute;
     left: 0;
-    bottom: 0;
-    height: 60px;
+
+    height: 0px;
     width: 100%;
+    margin-top: bottom;
 }
